@@ -8,7 +8,9 @@ public class Web {
 		System.out.println("Username");
 		System.out.println("password");
 	}
-	
+	private void Logout() {
+		System.out.println("Closing the browser");
+	}
 	
 	
 	public static void main(String[] args) {
